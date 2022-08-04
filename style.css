@@ -63,6 +63,11 @@ body {
     -o-transition: 0.4 ease;
 }
 
+.boxes.big {
+    width: 600px;
+    height: 600px;
+}
+
 .boxes.big .box {
     transform: rotateZ(360deg);
     -webkit-transform: rotateZ(360deg);
@@ -72,8 +77,7 @@ body {
 }
 
 .box {
-    background-image: ;
-    url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+    background-image: url('https://media3.giphy.com/media/JYOqCCqVzJavK/giphy.gif?cid=ecf05e47kjo7ydh7xe3vhbbmfo4xe04wriayljsv4rd1i1c0&rid=giphy.gif&ct=g');
     background-repeat: no-repeat;
     background-size: 500px 500px;
     position: relative;
